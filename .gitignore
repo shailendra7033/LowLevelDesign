@@ -1,0 +1,33 @@
+# C/C++ build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Java build artifacts
+*.class
+*.jar
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build and generated output
+build/
+dist/
+out/
+bin/
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
