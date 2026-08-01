@@ -1,0 +1,6 @@
+GameBoard.cpp:1:9: warning: #pragma once in main file
+    1 | #pragma once
+      |         ^~~~
+GameMain.cpp:1:9: warning: #pragma once in main file
+    1 | #pragma once
+      |         ^~~~
