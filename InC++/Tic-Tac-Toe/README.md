@@ -20,6 +20,11 @@ Run the program:
 .\tic.exe
 ```
 
+## leetcode ques
+  - https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/
+  - 
+
+
 ## Prevent Multiple Header Inclusion
 
 Place `#pragma once` at the beginning of each header file:
